@@ -1,0 +1,32 @@
+
+
+.container {
+    
+    text-align: center;
+    margin-top: 100px;
+    width: 450px;
+    
+}
+
+input {
+    
+    margin: 20px 0;
+    
+}
+
+#weather {
+    
+    margin-top:15px;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+#result{
+    padding-right: 15%;
+    padding-bottom: 20%;
+   
+}
